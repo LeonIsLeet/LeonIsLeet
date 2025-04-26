@@ -15,9 +15,9 @@
 
 ### 🗒️ About Me
 - 🔐 4+ years as a **Computer Security Professional** with 10+ years in software & penetration testing. Ranked top 2 % on TryHackMe (Q4 2022).  
-- 🛠️ Reverse-engineer comfortable in **IDA, Ghidra, Hopper, Frida, Cobalt Strike & SliverC2**.  
-- 📱 Deep knowledge of **iOS & Android internals**, jailbreak/root bypasses, and advanced **Active Directory** exploitation.  
-- 🤖 Built & fine-tuned **LLMs** with vLLM; dockerized micro-services to Kubernetes at scale.  
+- 🛠️ Reverse-engineering with tools like **IDA, Ghidra, Hopper and Frida**.  
+- 📱 Deep knowledge of **OSX, Android, Windows and Linux** internals  
+- 🤖 Experience with writing C2 frameworks and payloads that could bypass AV detections.  
 - ⚡ Fun fact – I hack hardware too: NFC/RFID cloning, IR & FM attacks, drones, SBCs & more.  
 
 ---
