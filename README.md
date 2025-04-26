@@ -34,11 +34,11 @@
 ### 🔭 Featured Projects
 | Project | What it does | Tech Highlights |
 |---------|--------------|-----------------|
-| **TinyC2** | File-less shellcode stager/packer for red-team ops | Heap encryption • Windows API • Ekko |
+| **TinyC2** | A simple TinyC2 Framework with a stager | Heap encryption • Windows API • Ekko |
 | **RedditDominator** | Personality-driven Reddit automation swarm | React • Python • Redis • Docker + K8s |
-| **DeviceShield** | iPhone privacy tweak (location/IP spoof) | CydiaSubstrate • Obj-C • Non-JB env |
+| **DeviceShield** | iPhone privacy, app level proxy, location and isolated keychain | CydiaSubstrate • Obj-C • Non-JB env |
 | **BumbleDate** | Auto-schedules dating-app matches | Selenium • Flutter • Ollama LLM |
-| **API Wrappers** | Confidential TLS-fingerprint-aware API lib | TCP RPC • Secure SSL • Frida |
+| **API Wrappers** | Confidential reversed private networking API lib | TCP RPC • Secure SSL • Frida |
 
 ---
 
@@ -46,15 +46,6 @@
 `Kali Linux` • `Metasploit` • `nmap` • `Ghidra` • `IDA` • `Frida` • `SliverC2` • `Cobalt Strike`  
 `Go` • `Swift/Obj-C` • `Python` • `JavaScript` • `MongoDB & SQL` • `Docker & Kubernetes` • `LLVM/LLDB/GDB`  
 `MITRE ATT&CK` red-teaming • SDLC security • Agile leadership • Team mentoring
-
----
-
-### 📈 GitHub Stats
-<div align="center">
-  <!-- Replace USERNAME with your GitHub handle -->
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_title=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME" alt="GitHub Streak" />
-</div>
 
 ---
 
