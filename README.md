@@ -52,7 +52,6 @@
 ### 🌐 Connect with Me
 - Portfolio  : **[aboutsharon.vercel.app](https://aboutsharon.vercel.app)**
 - Email       : **sharonms3377@gmail.com**
-- LinkedIn    : *(add link)*
 - TryHackMe   : Top 2 % (username)
 
 ---
